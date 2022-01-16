@@ -36,3 +36,14 @@ Mobile Developer
 
 ### Competition Background
 * SberStudents'22
+
+### Contacts
+<p align="left"> 
+  <a href="https://t.me/a_mann01" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="android" width="30" height="30"/> 
+  </a>
+  <a href="https://www.instagram.com/arkady_it/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="android" width="30" height="30"/> 
+  </a>
+  
+</p>
