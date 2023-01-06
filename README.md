@@ -13,10 +13,6 @@ Mobile Developer
     <img src=https://www.digiseller.ru/preview/307467/p1_2357302_9035e97a.png alt="android" width="35" height="35"/>
   </a>
   
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="android" width="35" height="35"/>
-  </a>
-  
   <a href="https://html.com/html5/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="android" width="40" height="40"/>
   </a>
