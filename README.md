@@ -30,9 +30,6 @@ Mobile Developer
 ### Education
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 
-### Competition Background
-* SberStudents'22
-
 ### Contacts
 <p align="left"> 
   <a href="https://t.me/a_mann01" target="_blank"> 
