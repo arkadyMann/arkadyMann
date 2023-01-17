@@ -1,5 +1,4 @@
 ## Arkady Mann
-Mobile Developer
 
 ### Tech stack
 
