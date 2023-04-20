@@ -1,5 +1,3 @@
 ## Arkady Mann
 
-### Tech stack
-
-SWIFT
+iOS developer
